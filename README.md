@@ -1,0 +1,2 @@
+# Private_Info_Extractor
+個人情報抽出器のpython実装
